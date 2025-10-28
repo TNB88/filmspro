@@ -180,6 +180,26 @@
         "name": "HHkungfuProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://onflix.pro&sz=256",
+        "jarFileSize": 91408,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/filmpro7799/plugin/tree/main",
+        "fileSize": 20346,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "obama"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "Onflix",
+        "url": "https://github.com/filmpro7799/plugin/raw/refs/heads/main/Onflix.cs3",
+        "name": "Onflix"
+    },
+    {
         "iconUrl": "https://raw.githubusercontent.com/filmpro7799/plugin/refs/heads/main/icon/phimviet.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/filmpro7799/plugin/tree/main",
