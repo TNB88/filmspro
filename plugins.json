@@ -32,9 +32,9 @@
             "Movie"
         ],
         "version": 2,
-        "internalName": "fshare 03",
+        "internalName": "fshare",
         "url": "https://raw.githubusercontent.com/filmpro7799/plugin/refs/heads/main/FshareProvider.cs3",
-        "name": "Fshare oo"
+        "name": "Fshare"
     },
     {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
@@ -123,7 +123,7 @@
         ],
         "version": 2,
         "internalName": "BluPhim",
-        "url": "https://raw.githubusercontent.com/filmpro7799/plugin/refs/heads/main/BluPhimProvider.cs3",
+        "url": "https://github.com/filmpro7799/plugin/raw/refs/heads/main/BluPhimProvider.cs3",
         "name": "BluPhim"
     },
     {
