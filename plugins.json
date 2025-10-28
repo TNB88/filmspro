@@ -24,7 +24,7 @@
         "status": 1,
         "language": "vi",
         "authors": [
-            "Linor"
+            "PRO"
         ],
         "tvTypes": [
             "Anime",
@@ -34,7 +34,7 @@
         "version": 2,
         "internalName": "OPhimProvider",
         "url": "https://raw.githubusercontent.com/filmpro7799/plugin/refs/heads/main/FshareProvider.cs3",
-        "name": "OPhimProvider"
+        "name": "FSHAREProvider"
     },
     {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
