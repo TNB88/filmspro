@@ -1,5 +1,5 @@
 {
-    "name": "Movies VN",
+    "name": "Movie VN",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/filmpro7799/plugin/refs/heads/main/plugins.json"
