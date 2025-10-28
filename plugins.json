@@ -197,43 +197,5 @@
         "description": "4k-FullHD",
         "url": "https://raw.githubusercontent.com/filmpro7799/plugin/refs/heads/main/PhimBetaProvider.cs3",
         "name": "PhimViet"
-    },
-    {
-        "iconUrl": "https://sdfim.org/wp-content/uploads/2023/01/SDFIM-15.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/filmpro7799/plugin/tree/main",
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "obama"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "SdFim",
-        "url": "https://raw.githubusercontent.com/filmpro7799/plugin/refs/heads/main/SdFim.cs3",
-        "name": "SdFim"
-    },
-    {
-        "iconUrl": "https://holitv.org/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/filmpro7799/plugin/tree/main",
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "obama"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "HoliTV",
-        "url": "https://raw.githubusercontent.com/filmpro7799/plugin/refs/heads/main/HoliTV.cs3",
-        "name": "HoliTV"
     }
 ]
