@@ -180,26 +180,6 @@
         "name": "HHkungfuProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/filmpro7799/plugin/tree/main",
-        "fileSize": 173715,
-        "status": 1,
-        "authors": [
-            "obama"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Anime",
-            "Movie"
-        ],
-        "version": 28,
-        "internalName": "ViStreamProvider",
-        "description": "Download FullHD, 2K, 4K from torrent and cloud driver",
-        "url": "https://github.com/filmpro7799/plugin/raw/refs/heads/main/ViStreamProvider.cs3",
-        "name": "ViStreamProvider"
-    },
-    {
         "iconUrl": "https://raw.githubusercontent.com/filmpro7799/plugin/refs/heads/main/icon/phimviet.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/filmpro7799/plugin/tree/main",
