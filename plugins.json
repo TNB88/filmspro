@@ -32,7 +32,7 @@
         "version": 1,
         "internalName": "XtreamIPTVProvider",
         "description": "C\u1ea7n nh\u1eadp link Xtream IPTV, t\u00e0i kho\u1ea3n v\u00e0 m\u1eadt kh\u1ea9u \u0111\u1ec3 xem",
-        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/XtreamIPTVProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/filmspro/refs/heads/main/XtreamIPTVProvider.cs3",
         "name": "XtreamIPTVProvider"
     },
 
