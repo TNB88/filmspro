@@ -35,26 +35,6 @@
         "url": "https://raw.githubusercontent.com/TNB88/filmspro/refs/heads/main/XtreamIPTVProvider.cs3",
         "name": "XtreamIPTVProvider"
     },
-
-     {
-        "iconUrl": "https://play-lh.googleusercontent.com/TOTj0uMWp7cXkjXDXkcTZnPigUmpLRRiH956lHRJxStlY7ucxmtwMs_Kr2wOWYm0fSY=w240-h480-rw",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/TNB88/filmspro/tree/main",
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "obama"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "fshare",
-        "url": "https://raw.githubusercontent.com/TNB88/filmspro/refs/heads/main/FshareProvider.cs3",
-        "name": "Fshare"
-    },
     {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
         "apiVersion": 1,
