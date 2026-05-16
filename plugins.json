@@ -34,7 +34,7 @@
         "version": 30,
         "internalName": "FshareProvider",
         "description": "Download FullHD, 2K, 4K with Fshare Vip account",
-        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/FshareProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/filmspro/refs/heads/main/FshareProvider.cs3",
         "name": "FshareProvider"
     },
         {
