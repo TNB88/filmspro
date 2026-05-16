@@ -17,6 +17,26 @@
         "url": "https://raw.githubusercontent.com/TNB88/filmspro/refs/heads/main/PhimMoiChillProvider.cs3",
         "name": "PhimMoiProviderr"
     },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/TOTj0uMWp7cXkjXDXkcTZnPigUmpLRRiH956lHRJxStlY7ucxmtwMs_Kr2wOWYm0fSY=w240-h480-rw",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/TNB88/filmspro/tree/main",
+        "fileSize": 118820,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 30,
+        "internalName": "FshareProvider",
+        "description": "Download FullHD, 2K, 4K with Fshare Vip account",
+        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/FshareProvider.cs3",
+        "name": "FshareProvider"
+    },
         {
         "iconUrl": "https://play-lh.googleusercontent.com/gMB8Eq9g9Uq6CXiOHcqatXpx-6HTexAzcQibTgpqAE756Fnt1Jyyp0j7S3UDKPztkA=w480-h960-rw",
         "apiVersion": 1,
