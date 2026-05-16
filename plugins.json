@@ -178,6 +178,27 @@
         "url": "https://raw.githubusercontent.com/TNB88/filmspro/refs/heads/main/HHKungFuProvider.cs3",
         "name": "HHkungfuProvider"
     },
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/TNB88/filmspro/tree/main",
+        "fileSize": 313377,
+        "status": 1,
+        "authors": [
+            "anhdaden",
+            "hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 33,
+        "internalName": "ViStreamProvider",
+        "description": "Download FullHD, 2K, 4K from torrent and cloud driver",
+        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/ViStreamProvider.cs3",
+        "name": "ViStreamProvider"
+    },
     {
         "iconUrl": "https://raw.githubusercontent.com/TNB88/filmspro/refs/heads/main/icon/phimviet.png",
         "apiVersion": 1,
